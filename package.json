@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "day": "node index.js run",
+    "new": "node index.js new"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
